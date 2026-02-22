@@ -1,4 +1,3 @@
-## Hi there 👋
 ## Hi there 👋, I'm Arman!
 
 An Electronics and Communication Engineering student passionate about software development, data science, and building real-world applications. I love bridging the gap between hardware and software—from embedded systems to AI-driven frameworks.
